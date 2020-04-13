@@ -1,0 +1,9 @@
+Forma de executar um scritp específico dentreo de uma pasta comando: 
+    rspec nomedaPasta\nomeDoScript.
+
+Executar uma suit (discribe) expecífica dentro do script:
+    rspec --tag @nomeDaTag
+    Obs: seram executados todas as suits da pasta que estive que estiverem com a tag igual,
+    independente do script
+
+    
